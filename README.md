@@ -1,4 +1,4 @@
-![Header](./your-header-image.png)
+![Header](./github-header-image.png)
 
 <!---
 Jose-RoFer/Jose-RoFer is a  special  repository because its `README.md` (this file) appears on your GitHub profile.
